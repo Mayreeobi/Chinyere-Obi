@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chinyere Obi
-- 👀 I’m a data analyst in training, who is passionate about improving my skills and documenting my progess
+- 👀 I’m an ardent data analyst in training, enjoy analyzing and telling stories with data
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m available to collaborate data analysis project volunteer or otherwise
+- 📫 How to reach me obichinyere87@gmail.com
 
 <!---
 Mayreeobi/Mayreeobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
